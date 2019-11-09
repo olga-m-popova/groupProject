@@ -7,10 +7,9 @@ public class passwordValidator {
 
 
             Scanner scanner = new Scanner(System.in);
-            //String n1 = scanner.nextLine();
+
             String n1 = "Abcdefghi1$";
-            // Your code here
-            //------------------------------------------------
+            
 
             int l = n1.length();
 
