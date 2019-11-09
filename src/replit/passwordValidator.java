@@ -9,7 +9,7 @@ public class passwordValidator {
             Scanner scanner = new Scanner(System.in);
 
             String n1 = "Abcdefghi1$";
-            
+            // add some changes
 
             int l = n1.length();
 
