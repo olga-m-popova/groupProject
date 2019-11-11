@@ -7,5 +7,10 @@ public class katya {
         System.out.println(school);
 
 
+        for (int i = 0; i < school.length(); i++) {
+            System.out.println(school+"i");
+        }
+
+
     }
 }
