@@ -12,5 +12,11 @@ public class katya {
         }
 
 
+        if (school.equals("school")){
+            System.out.println(school);
+        }
+        
+
+
     }
 }
