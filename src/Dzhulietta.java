@@ -4,9 +4,12 @@ public class Dzhulietta {
         System.out.println(newsOfTheDay);
 
         int snow = 0;
-        if(snow > 5 ) {
+        int temperature = 0;
+        if(snow <=3 && temperature <=5) {
             System.out.println("Put on your snow boots");
-        }
+        } else if(temperature <=0) {
+            System.out.println("Please drink something hot!");
+            }
         System.out.println("Just be careful on the road");
     }
 
