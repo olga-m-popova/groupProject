@@ -1,3 +1,5 @@
+import java.sql.SQLOutput;
+
 public class Dzhulietta {
     public static void main(String[] args) {
         String newsOfTheDay = "Winter is here";
@@ -11,6 +13,9 @@ public class Dzhulietta {
             System.out.println("Please drink something hot!");
             }
         System.out.println("Just be careful on the road");
+        System.out.println();
+
+
     }
 
 }
